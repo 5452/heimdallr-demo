@@ -1,0 +1,12 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/.gradle/
+/api-gateway/build/
+/auth-server/build/
+/config-server/build/
+/webservice-registry/build/
+.idea
